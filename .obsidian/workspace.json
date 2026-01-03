@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "7bd5e5a2e5bdc9ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "af022ad44bd1edfc",
+        "type": "tabs",
+        "dimension": 77.50965250965251,
+        "children": [
+          {
+            "id": "d53324cd4817e56c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++学习/5 模板.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5 模板"
+            },
+            "group": "eea24002293fd8ea"
+          }
+        ]
+      },
+      {
+        "id": "5aa23642717e3b3f",
+        "type": "tabs",
+        "dimension": 22.49034749034749,
+        "children": [
+          {
+            "id": "41795f801ac4fdd6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C++学习/5 模板.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "5 模板 的大纲"
+            },
+            "group": "eea24002293fd8ea"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3ea5151e1ec70442",
+    "type": "split",
+    "children": [
+      {
+        "id": "c402636509a5ac51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f1df43d2a62584d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "1b6ed05ce34ccd8d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "08bf6b277d3f41e9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0da021d7221b7192",
+    "type": "split",
+    "children": [
+      {
+        "id": "0dead43d51dfa94c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f6cf004959b4c0f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "数据结构和算法/2 栈和队列.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2 栈和队列 的反向链接列表"
+            }
+          },
+          {
+            "id": "3aa939bef35a7da0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "C++学习/类与对象.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "类与对象 的出链列表"
+            }
+          },
+          {
+            "id": "4d79340c02ff4c2d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "8162d4e9cb9066e6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "42c9613aa0c86a34",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C++学习/类与对象.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "类与对象 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "d53324cd4817e56c",
+  "lastOpenFiles": [
+    "C++学习/基础部分补充.md",
+    "OpenCV/3 局部特征、相机定位与视觉标签.md",
+    "C++学习/3 面向对象.md",
+    "C++学习/2引用.md",
+    "C++学习/5 模板.md",
+    "数据结构和算法/4 树.md",
+    "Pasted image 20260103141858.png",
+    "机器学习/基础概念.md",
+    "图片/Pasted image 20251230163013.png",
+    "OpenCV/2 边缘检测和特征提取.md",
+    "图片/Pasted image 20260102163943.png",
+    "图片/Pasted image 20260102160542.png",
+    "图片/Pasted image 20260102160135.png",
+    "图片/Pasted image 20251231173528.png",
+    "图片/Pasted image 20251231173223.png",
+    "图片/Pasted image 20251231173148.png",
+    "图片/Pasted image 20251231172727.png",
+    "图片/Pasted image 20251231172654.png",
+    "数据结构和算法/0 绪论.md",
+    "机器学习",
+    "疑难点.md",
+    "OpenCV/1 初步.md",
+    "疑难点.md.baiduyun.uploading.cfg",
+    "数据结构和算法/3.2 数组和广义表.md.baiduyun.uploading.cfg",
+    "图片/Pasted image 20251217160321.png.baiduyun.uploading.cfg",
+    "图片/Pasted image 20251216174554.png.baiduyun.uploading.cfg",
+    "图片/Pasted image 20251210142054.png.baiduyun.uploading.cfg",
+    "图片/Pasted image 20251211105451.png.baiduyun.uploading.cfg",
+    "图片/Pasted image 20251206145240.png.baiduyun.uploading.cfg",
+    "图片/Pasted image 20251206141755.png.baiduyun.uploading.cfg",
+    "图片/Pasted image 20251206145237.png.baiduyun.uploading.cfg",
+    "C++学习/4 文件操作.md",
+    "数据结构和算法/3.1 串.md",
+    "数据结构和算法/3.2 数组和广义表.md",
+    "STM32/初步准备.md",
+    "数据结构和算法/2 栈和队列.md",
+    "数据结构和算法/1 线性表.md",
+    "C++学习/规范/规范.md",
+    "C++学习/1内存.md",
+    "C++学习/多文件编程/Cmake的使用.md",
+    "C++学习/未命名.canvas",
+    "创建链接.md",
+    "欢迎.md"
+  ]
+}
