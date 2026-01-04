@@ -12,14 +12,12 @@
             "id": "d53324cd4817e56c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "C++学习/5 模板.md",
-                "mode": "source",
-                "source": false
+                "file": "图片/Pasted image 20260103141858.png"
               },
-              "icon": "lucide-file",
-              "title": "5 模板"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260103141858"
             },
             "group": "eea24002293fd8ea"
           }
@@ -36,13 +34,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++学习/5 模板.md",
+                "file": "图片/Pasted image 20260103141858.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "5 模板 的大纲"
+              "title": "Pasted image 20260103141858 的大纲"
             },
             "group": "eea24002293fd8ea"
           }
@@ -208,15 +206,17 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "d53324cd4817e56c",
+  "active": "5f1df43d2a62584d",
   "lastOpenFiles": [
+    "C++学习/5 模板.md",
+    "数据结构和算法/4 树.md",
+    "疑难点.md",
+    "图片/Pasted image 20260104143518.png",
     "C++学习/基础部分补充.md",
     "OpenCV/3 局部特征、相机定位与视觉标签.md",
     "C++学习/3 面向对象.md",
     "C++学习/2引用.md",
-    "C++学习/5 模板.md",
-    "数据结构和算法/4 树.md",
-    "Pasted image 20260103141858.png",
+    "图片/Pasted image 20260103141858.png",
     "机器学习/基础概念.md",
     "图片/Pasted image 20251230163013.png",
     "OpenCV/2 边缘检测和特征提取.md",
@@ -227,10 +227,8 @@
     "图片/Pasted image 20251231173223.png",
     "图片/Pasted image 20251231173148.png",
     "图片/Pasted image 20251231172727.png",
-    "图片/Pasted image 20251231172654.png",
     "数据结构和算法/0 绪论.md",
     "机器学习",
-    "疑难点.md",
     "OpenCV/1 初步.md",
     "疑难点.md.baiduyun.uploading.cfg",
     "数据结构和算法/3.2 数组和广义表.md.baiduyun.uploading.cfg",
