@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构和算法/4 树.md",
+                "file": "C++学习/5 模板.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 树"
+              "title": "5 模板"
             },
             "group": "eea24002293fd8ea"
           },
@@ -50,13 +50,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构和算法/4 树.md",
+                "file": "C++学习/5 模板.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "4 树 的大纲"
+              "title": "5 模板 的大纲"
             },
             "group": "eea24002293fd8ea"
           }
@@ -222,30 +222,31 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "5f1df43d2a62584d",
+  "active": "d53324cd4817e56c",
   "lastOpenFiles": [
+    "Pasted image 20260107161202.png",
+    "Pasted image 20260107160946.png",
+    "C++学习/基础部分补充.md",
+    "机器学习/基础概念.md",
+    "图片/Pasted image 20260107142350.png",
+    "数据结构和算法/4 树.md",
+    "图片/Pasted image 20260107155457.png",
     "OpenCV/3 局部特征、相机定位与视觉标签.md",
     "图片/Pasted image 20260106082415.png",
     "OpenCV/2 边缘检测和特征提取.md",
     "C++学习/5 模板.md",
     "图片/Pasted image 20260106091806.png",
-    "数据结构和算法/4 树.md",
     "图片/Pasted image 20260106090643.png",
     "图片/Pasted image 20260106082939.png",
     "数据结构和算法/5 图.md",
     "图片/Pasted image 20260105214451.png",
-    "C++学习/基础部分补充.md",
     "图片/Pasted image 20260105214345.png",
     "图片/Pasted image 20260105213549.png",
-    "图片/Pasted image 20260105212415.png",
-    "图片/Pasted image 20260105210348.png",
-    "图片/Pasted image 20260105210332.png",
     "数据结构和算法/3.2 数组和广义表.md",
     "OpenCV/1 初步.md",
     "疑难点.md",
     "C++学习/3 面向对象.md",
     "C++学习/2引用.md",
-    "机器学习/基础概念.md",
     "数据结构和算法/0 绪论.md",
     "机器学习",
     "疑难点.md.baiduyun.uploading.cfg",
