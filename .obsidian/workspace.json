@@ -9,32 +9,17 @@
         "dimension": 77.50965250965251,
         "children": [
           {
-            "id": "d53324cd4817e56c",
+            "id": "c9bb5cf3347bdd88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++学习/5 模板.md",
+                "file": "C++学习/项目工程能力/Cmake的使用.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 模板"
-            },
-            "group": "eea24002293fd8ea"
-          },
-          {
-            "id": "91242be44ac3aa26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数据结构和算法/4 树.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4 树"
+              "title": "Cmake的使用"
             }
           }
         ]
@@ -50,15 +35,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++学习/5 模板.md",
+                "file": "C++学习/项目工程能力/Cmake的使用.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "5 模板 的大纲"
-            },
-            "group": "eea24002293fd8ea"
+              "title": "Cmake的使用 的大纲"
+            }
           }
         ]
       }
@@ -213,41 +197,47 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "d53324cd4817e56c",
+  "active": "c9bb5cf3347bdd88",
   "lastOpenFiles": [
-    "Pasted image 20260107161202.png",
-    "Pasted image 20260107160946.png",
-    "C++学习/基础部分补充.md",
-    "机器学习/基础概念.md",
-    "图片/Pasted image 20260107142350.png",
-    "数据结构和算法/4 树.md",
-    "图片/Pasted image 20260107155457.png",
-    "OpenCV/3 局部特征、相机定位与视觉标签.md",
-    "图片/Pasted image 20260106082415.png",
-    "OpenCV/2 边缘检测和特征提取.md",
+    "QT/初步.md",
     "C++学习/5 模板.md",
-    "图片/Pasted image 20260106091806.png",
-    "图片/Pasted image 20260106090643.png",
-    "图片/Pasted image 20260106082939.png",
-    "数据结构和算法/5 图.md",
-    "图片/Pasted image 20260105214451.png",
-    "图片/Pasted image 20260105214345.png",
-    "图片/Pasted image 20260105213549.png",
-    "数据结构和算法/3.2 数组和广义表.md",
+    "图片/Pasted image 20260113091104.png",
+    "OpenCV/2 边缘检测和特征提取.md",
+    "OpenCV/3 局部特征、相机定位与视觉标签.md",
     "OpenCV/1 初步.md",
-    "疑难点.md",
+    "C++学习/6 C++其它特性.md",
     "C++学习/3 面向对象.md",
-    "C++学习/2引用.md",
+    "数据结构和算法/5 图.md",
+    "图片/Pasted image 20260114092951.png",
+    "图片/Pasted image 20260114091126.png",
+    "数据结构和算法/3.2 数组和广义表.md",
     "数据结构和算法/0 绪论.md",
+    "图片/Pasted image 20260111143408.png",
+    "图片/Pasted image 20260112211057.png",
+    "图片/Pasted image 20260112210345.png",
+    "图片/Pasted image 20260112205259.png",
+    "C++学习/4 文件操作.md",
+    "图片/Pasted image 20260111155839.png",
+    "QT",
+    "数据结构和算法/4 树.md",
+    "图片/Pasted image 20260109135652.png",
+    "C++学习/规范/规范.md",
+    "C++学习/基础部分补充.md",
+    "图片/Pasted image 20260110140936.png",
+    "数据结构和算法/3.1 串.md",
+    "数据结构和算法/1 线性表.md",
+    "疑难点.md",
+    "机器学习/基础概念.md",
+    "C++学习/2引用.md",
     "机器学习",
     "疑难点.md.baiduyun.uploading.cfg",
     "数据结构和算法/3.2 数组和广义表.md.baiduyun.uploading.cfg",
@@ -257,15 +247,10 @@
     "图片/Pasted image 20251211105451.png.baiduyun.uploading.cfg",
     "图片/Pasted image 20251206145240.png.baiduyun.uploading.cfg",
     "图片/Pasted image 20251206141755.png.baiduyun.uploading.cfg",
-    "图片/Pasted image 20251206145237.png.baiduyun.uploading.cfg",
-    "C++学习/4 文件操作.md",
-    "数据结构和算法/3.1 串.md",
     "STM32/初步准备.md",
     "数据结构和算法/2 栈和队列.md",
-    "数据结构和算法/1 线性表.md",
-    "C++学习/规范/规范.md",
     "C++学习/1内存.md",
-    "C++学习/多文件编程/Cmake的使用.md",
+    "C++学习/项目工程能力/Cmake的使用.md",
     "C++学习/未命名.canvas",
     "创建链接.md",
     "欢迎.md"
